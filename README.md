@@ -14,3 +14,11 @@ This repository contains the CSV files for the metadata formats in DHIS2. The fo
 - Find the link to the Category Option format [here](https://docs.dhis2.org/en/develop/using-the-api/dhis-core-version-241/metadata.html?h=csv+metadata+import+2.41#webapi_csv_other_objects) or use the image below to see the structure.
 
 <img width="1187" height="481" alt="image" src="https://github.com/user-attachments/assets/6f525a85-33c1-4384-a3be-87a514d397f9" />
+
+## 3. [What Are Data Elements in DHIS2?](https://youtube.com/shorts/HRXUZQg1O40)
+- Access the [category-option](https://github.com/Zoonadi/dhis2-metadata-series/tree/main/3.%20data-element) folder in the repo to see a blank template of the Data Element CSV format and an example template of languages.
+
+- Find the link to the Category Option format [here](https://docs.dhis2.org/en/develop/using-the-api/dhis-core-version-242/metadata.html#webapi_csv_data_elements) or use the image below to see the structure.
+
+<img width="1151" height="557" alt="image" src="https://github.com/user-attachments/assets/3a38c558-c6d8-4a67-bc08-fb2b268629b1" />
+
