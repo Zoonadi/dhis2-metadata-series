@@ -37,4 +37,39 @@ This repository contains the CSV files for the metadata formats in DHIS2. The fo
 
 ## 6. [How to Create Default Form in DHIS2]()
 - Access the [default-form](https://github.com/Zoonadi/dhis2-metadata-series/tree/main/6.%20default-form) folder in the repo to see example templates.
+- This is a practical checklist for creating a default data entry form in DHIS2. It follows these steps:
 
+#### i. Create your metadata
+
+- [ ] Create Category Options
+- [ ] Create Categories
+- [ ] Create Category Combinations
+- [ ] Configure required user access
+
+#### ii. Create your Data Elements
+
+- [ ] NCD Client Registered
+- [ ] NCD Client Achieving Less than 5,000 Average Daily Steps
+- [ ] NCD Client Achieving 5,000–7,499 Average Daily Steps
+- [ ] NCD Client Achieving 7,500–9,999 Average Daily Steps
+- [ ] NCD Client Achieving 10,000 or More Average Daily Steps
+
+#### iii. Create the Dataset
+
+**Dataset:** NCD Physical Activity Monitoring
+
+- [ ] Select the appropriate period type
+- [ ] Add the required Data Elements
+- [ ] Assign the appropriate Category Combination
+- [ ] Assign the Dataset to the relevant Organisation Units
+- [ ] Grant users access to capture and view data
+
+#### iv. Generate and Test the Default Form
+
+- [ ] Open Data Entry
+- [ ] Select the Dataset
+- [ ] Select the Organisation Unit
+- [ ] Select the Reporting Period
+- [ ] Confirm the Default Form displays correctly
+- [ ] Enter test data
+- [ ] Save the data
