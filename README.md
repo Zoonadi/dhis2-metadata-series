@@ -22,7 +22,7 @@ This repository contains the CSV files for the metadata formats in DHIS2. The fo
 
 <img width="1151" height="557" alt="image" src="https://github.com/user-attachments/assets/3a38c558-c6d8-4a67-bc08-fb2b268629b1" />
 
-## 4. [Stop Adding Organisation Units Manually in DHIS2]()
+## 4. [Stop Adding Organisation Units Manually in DHIS2](https://www.youtube.com/watch?v=DRc6nLEYH8o)
 - Access the [organisation-unit](https://github.com/Zoonadi/dhis2-metadata-series/tree/main/4.%20organisation-unit) folder in the repo to see a blank template of the Organisation Unit CSV format and an example template.
 
 - Find the link to the Organisation Unit format [here](https://docs.dhis2.org/en/develop/using-the-api/dhis-core-version-241/metadata.html#webapi_csv_org_units) or use the image below to see the structure.
@@ -31,4 +31,8 @@ This repository contains the CSV files for the metadata formats in DHIS2. The fo
 <img width="1256" height="580" alt="Org Unit Sctrucure" src="https://github.com/user-attachments/assets/6e75eda1-1d7b-49ff-92c2-3920474a2950" />
 
 
+## 5. [How to Create a Dataset in DHIS2](https://www.youtube.com/watch?v=C69nLUi5SK8&t=33s)
+- Access the [dataset](https://github.com/Zoonadi/dhis2-metadata-series/tree/main/5.%20dataset) folder in the repo to see example templates.
+
+<img width="1536" height="1024" alt="AdobeExpressPhotos_e9be6d863d714a608b9bf9a97f4296fc_CopyEdited" src="https://github.com/user-attachments/assets/b8ab8747-151d-48d9-b455-0ab2d0a1c514" />
 
